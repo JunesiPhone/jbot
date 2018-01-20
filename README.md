@@ -1,0 +1,5 @@
+Jbot
+----
+
+Simple discord bot
+
